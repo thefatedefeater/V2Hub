@@ -3,7 +3,7 @@ name: "MERGE SUBSCRIPTION"
 on:
   workflow_dispatch:
   schedule:
-    - cron: '*/150 * * * *'
+    - cron: '*/180 * * * *'
     
 jobs:
   build:
