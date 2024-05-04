@@ -4,21 +4,21 @@
   <a href="https://t.me/v2raycollectorbot">
     <img src="https://img.shields.io/badge/Telegram_Bot-@v2raycollectorbot-darkblue?style=flat&logo=telegram" alt="Telegram Bot">
   </a>
-  <a href="https://scrutinizer-ci.com/g/yebekhe/V2Hub/build-status/main">
-    <img src="https://scrutinizer-ci.com/g/yebekhe/V2Hub/badges/build.png?b=main" alt="Build Status">
+  <a href="https://scrutinizer-ci.com/g/thefatedefeater/V2Hub/build-status/main">
+    <img src="https://scrutinizer-ci.com/g/thefatedefeater/V2Hub/badges/build.png?b=main" alt="Build Status">
   </a>
   <a href="https://scrutinizer-ci.com/code-intelligence">
-    <img src="https://scrutinizer-ci.com/g/yebekhe/V2Hub/badges/code-intelligence.svg?b=main" alt="Code Intelligence Status">
+    <img src="https://scrutinizer-ci.com/g/thefatedefeater/V2Hub/badges/code-intelligence.svg?b=main" alt="Code Intelligence Status">
   </a>
-  <a href="https://scrutinizer-ci.com/g/yebekhe/V2Hub/?branch=main">
-    <img src="https://img.shields.io/scrutinizer/quality/g/yebekhe/V2Hub?style=flat&logo=scrutinizerci" alt="Scrutinizer Code Quality">
+  <a href="https://scrutinizer-ci.com/g/thefatedefeater/V2Hub/?branch=main">
+    <img src="https://img.shields.io/scrutinizer/quality/g/thefatedefeater/V2Hub?style=flat&logo=scrutinizerci" alt="Scrutinizer Code Quality">
   </a>
 </p>
 <p align="center">
-  <img src="https://img.shields.io/github/languages/top/yebekhe/V2Hub?color=5D6D7E" alt="Github Top Language">
-  <img src="https://img.shields.io/github/license/yebekhe/V2Hub?color=5D6D7E" alt="GitHub license">
-  <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/yebekhe/V2Hub">
-  <img alt="GitHub commit activity (branch)" src="https://img.shields.io/github/commit-activity/t/yebekhe/V2Hub">
+  <img src="https://img.shields.io/github/languages/top/thefatedefeater/V2Hub?color=5D6D7E" alt="Github Top Language">
+  <img src="https://img.shields.io/github/license/thefatedefeater/V2Hub?color=5D6D7E" alt="GitHub license">
+  <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/thefatedefeater/V2Hub">
+  <img alt="GitHub commit activity (branch)" src="https://img.shields.io/github/commit-activity/t/thefatedefeater/V2Hub">
 </p>
 <p align="center">
   <b>This project is intended for educational purposes only. Any other use of it, including commercial, personal, or non-educational use, is not accepted!</b>
@@ -118,10 +118,10 @@
     </blockquote>
   </li>
 </ul>
-<p>For Example: (OutputFormat) = clash (SubUrl) = <a href="https://raw.githubusercontent.com/yebekhe/V2Hub/main/merged_base64">https://raw.githubusercontent.com/yebekhe/V2Hub/main/merged_base64</a>
+<p>For Example: (OutputFormat) = clash (SubUrl) = <a href="https://raw.githubusercontent.com/thefatedefeater/V2Hub/main/merged_base64">https://raw.githubusercontent.com/thefatedefeater/V2Hub/main/merged_base64</a>
 </p>
 <p>
-  <a href="https://pub-api-1.bianyuan.xyz/sub?target=clash&url=https://raw.githubusercontent.com/yebekhe/V2Hub/main/merged_base64&insert=false&config=https%3A%2F%2Fraw.githubusercontent.com%2FACL4SSR%2FACL4SSR%2Fmaster%2FClash%2Fconfig%2FACL4SSR_Online_Mini.ini&emoji=true&list=false&tfo=false&scv=false&fdn=false&sort=false&new_name=true">https://pub-api-1.bianyuan.xyz/sub?target=clash&url=https://raw.githubusercontent.com/yebekhe/V2Hub/main/merged_base64&insert=false&config=https%3A%2F%2Fraw.githubusercontent.com%2FACL4SSR%2FACL4SSR%2Fmaster%2FClash%2Fconfig%2FACL4SSR_Online_Mini.ini&emoji=true&list=false&tfo=false&scv=false&fdn=false&sort=false&new_name=true</a>
+  <a href="https://pub-api-1.bianyuan.xyz/sub?target=clash&url=https://raw.githubusercontent.com/thefatedefeater/V2Hub/main/merged_base64&insert=false&config=https%3A%2F%2Fraw.githubusercontent.com%2FACL4SSR%2FACL4SSR%2Fmaster%2FClash%2Fconfig%2FACL4SSR_Online_Mini.ini&emoji=true&list=false&tfo=false&scv=false&fdn=false&sort=false&new_name=true">https://pub-api-1.bianyuan.xyz/sub?target=clash&url=https://raw.githubusercontent.com/thefatedefeater/V2Hub/main/merged_base64&insert=false&config=https%3A%2F%2Fraw.githubusercontent.com%2FACL4SSR%2FACL4SSR%2Fmaster%2FClash%2Fconfig%2FACL4SSR_Online_Mini.ini&emoji=true&list=false&tfo=false&scv=false&fdn=false&sort=false&new_name=true</a>
 </p>
 <p>Now you can use the link above to import the subs into your client ```</p>
 <h2 id="license">License</h2>
